@@ -11,10 +11,10 @@ which means that there is an increased possibility of large-scale
 congestion and driving conflicts in today's huge traffic flow. This 
 makes it possible to add traffic lights to the roundabout to control 
 traffic flow to alleviate traffic congestion and driving conflicts. 
-This paper aims to improve the traffic model of the ordinary twolane roundabout and analyze whether different traffic light 
+This paper aims to improve the traffic model of the ordinary two lane roundabout and analyze whether different traffic light 
 control methods are conducive to improving the traffic efficiency 
 of the roundabout in the scenario of heavy traffic flow. Four 
-improved models are established and compared with basic twolane roundabout and signalized intersection. Based on two 
+improved models are established and compared with basic two lane roundabout and signalized intersection. Based on two 
 scenarios with different traffic volume, we analyze these models’
 performance through multiple evaluation metrics. Results 
 illustrates that roundabout with central cross has the best 
